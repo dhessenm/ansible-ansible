@@ -1,4 +1,4 @@
-ansible
+Ansible role: ansible
 =========
 
 Installs Ansible on Ubuntu trusty
